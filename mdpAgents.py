@@ -1,9 +1,6 @@
 # mdpAgents.py
 # parsons/20-nov-2017
 #
-# Version 1
-#
-# The starting point for CW2.
 #
 # Intended to work with the PacMan AI projects from:
 #
@@ -27,6 +24,9 @@
 
 # The agent here is was written by Simon Parsons, based on the code in
 # pacmanAgents.py
+#
+# The agent here was then modified by Dariana Agape.
+#
 import math
 
 from pacman import Directions
